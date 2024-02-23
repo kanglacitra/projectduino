@@ -28,3 +28,4 @@ void MetOfficeClient::key(String key) {
   if (currentKey == "G") {
     windGust = value;
   }
+//add more later here
